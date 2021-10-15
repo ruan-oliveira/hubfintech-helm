@@ -1,0 +1,6 @@
+dependencies:
+- name: chart-common
+  repository: file://../commons/chart-common
+  version: 0.1.0
+digest: sha256:88d102bfa8f19a2e26ddbcfec5d589ab19866e4f50b46992f31bfffd1d5da55f
+generated: "2021-10-15T17:28:17.911711-03:00"
